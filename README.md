@@ -46,4 +46,4 @@ Java 11, Servlet 4.0 / JSP 2.3, JSTL 1.2, JDBC, MySQL 8, Maven, Apache Tomcat 9
 (In IntelliJ/Eclipse you can also import it as a Maven project and run it on a Tomcat 9 server.)
 
 ## Author
-Your Name - Cyrostack Internship Project
+Keshari Nandan Ray - Cyrostack Internship Project
